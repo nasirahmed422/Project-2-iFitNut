@@ -25,7 +25,7 @@ As a health conscious individual, I would like to record my fitness progress, so
 
 [Deployed App Link](https://ifitnut.herokuapp.com/) 
 
-[Github Repository Link](https://github.com/Seifenan/Project-2-iFitNut) 
+[Github Repository Link](https://github.com/nasirahmed422/Project-2-iFitNut) 
 
 ## Completed Screenshot
 
